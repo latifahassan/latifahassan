@@ -1,4 +1,6 @@
-Hey there! I'm [Your Name], a passionate and driven software developer with a vision for a more sustainable future. My journey in the tech world has been nothing short of exciting, and I'm thrilled to share a glimpse of it with you.
+💫 About Me:
+
+Hey there! I'm Latifa, a passionate and driven software developer with a vision for a more sustainable future. My journey in the tech world has been nothing short of exciting, and I'm thrilled to share a glimpse of it with you.
 
 🔭 Currently, I'm pouring my energy into a full-stack application that's all about fostering sustainable living. Imagine a platform where people can trade unwanted clothes for items they truly desire. By tackling the issue of clothing waste and landfill overflow, I believe we can make a significant impact on our environment.
 

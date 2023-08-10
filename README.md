@@ -2,13 +2,13 @@
 
 Hey there! I'm Latifa, a passionate and driven software developer with a vision for a more sustainable future. My journey in the tech world has been nothing short of exciting, and I'm thrilled to share a glimpse of it with you.
 
-🔭 Currently, I'm pouring my energy into a full-stack application that's all about fostering sustainable living. Imagine a platform where people can trade unwanted clothes for items they truly desire. By tackling the issue of clothing waste and landfill overflow, I believe we can make a significant impact on our environment.
+🔭 I just finished pouring my energy into a full-stack application that's all about fostering sustainable living. Imagine a platform where people can trade unwanted clothes for items they truly desire. By tackling the issue of clothing waste and landfill overflow, I believe we can make a significant impact on our environment.
 
 🌍 Sustainability isn't the only thing that ignites my curiosity. I'm always on the lookout for interesting projects to collaborate on. Whether it's creating innovative solutions or pushing the boundaries of technology, I'm eager to join forces and contribute my skills.
 
 🤝 While I've come a long way, I'm a firm believer in continuous learning. I'm actively seeking opportunities to improve my technical prowess and explore new tech stacks. Every challenge is a chance to grow, and I'm excited to see where my insatiable hunger for knowledge will take me next.
 
-🚀 As I wrap up my full-stack app, I've embarked on an exciting side project called "The Perfect Trip." Picture this: a tool that helps groups effortlessly settle the age-old debate of where to travel. Currently in the early stages of planning and prototyping, I'm wielding tools like Figma to shape this vision into reality.
+🚀 I've embarked on an exciting side project called "The Perfect Trip." Picture this: a tool that helps groups effortlessly settle the age-old debate of where to travel. Currently in the early stages of planning and prototyping, I'm wielding tools like Figma to shape this vision into reality.
 
 🌟 Speaking of exciting ventures, I'm also on the hunt for my first role in the tech industry. I'm eager to bring my passion, creativity, and dedication to a team that shares my enthusiasm for innovation.
 
